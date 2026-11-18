@@ -14,6 +14,7 @@ Analista de Governança de Dados no Instituto Tecnológico Vale (ITV), em Belém
 
 | Projeto | O que é | Stack |
 |---|---|---|
+| [Kit de Governança de Dados](https://github.com/tarlisodoria/kit-governanca-dados) | Modelos para documentar dados de pesquisa: classificação em 4 níveis, ficha Dublin Core, dicionário de dados, checklist FAIR e um validador que roda no GitHub Actions. | Python, YAML, GitHub Actions |
 | [Garimpo Imóveis](https://github.com/tarlisodoria/garimpo-imoveis) | Pipeline diário com os imóveis à venda pela Caixa nas 27 UFs: detecta imóveis novos, reduções de preço e saídas da lista, e guarda o histórico. [Ver aplicação](https://garimpo-imoveis.pages.dev/) | TypeScript, GitHub Actions, PostgreSQL (Neon), Drizzle, Next.js, Cloudflare Pages |
 | [DataDemocracia](https://github.com/tarlisodoria/DataDemocracia) | Plataforma cívica com dados públicos verificáveis. Inclui um painel com as 429 votações nominais da Câmara em 2025 e o voto de cada um dos 551 deputados, coletados da API de dados abertos. | TypeScript |
 
